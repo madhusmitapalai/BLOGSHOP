@@ -867,6 +867,9 @@ nav .wrapper {
   .prodouct-layout {
     grid-template-columns: 1fr;
   }
+  .products {
+    margin-top: 16rem;
+  }
 }
 /*******************************footer********************************************/
 .footer {
